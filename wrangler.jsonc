@@ -1,5 +1,5 @@
 {
-  "name": "dongz2626-patch-1",
+  "name": "d1-template",
   "main": "./dist/index.js",
   "assets": {
     "directory": "./dist"
@@ -16,7 +16,7 @@
   "d1_databases": [
     {
       "binding": "DB",
-      "database_name": "dongz2626",
+      "database_name": "d1-template",
       "database_id": "c62b32a9-18a0-4cda-8f92-cb526c0fc35c"
     }
   ],
